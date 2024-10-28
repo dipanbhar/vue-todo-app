@@ -1,4 +1,4 @@
-<!-- App.vue -->
+<!-- TodoComponent.vue -->
 <template>
   <div class="app">
     <div :class="cls">
