@@ -35,7 +35,7 @@ List todo
 Add new todo
 Delete todo
 
-## Test bad
+## Test files
 
 There are two test files available inside "test/customeComponents" folder
 
